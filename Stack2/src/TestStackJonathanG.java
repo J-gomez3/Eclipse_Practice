@@ -19,6 +19,7 @@ public class TestStackJonathanG {
 	myStack.push("A");
 	myStack.push("B");
 	myStack.push("*");
+	myStack.push("C");
 	System.out.println(myStack);
 	System.out.println("Empty after pushing to stack = " +  myStack.isEmpty());
 	
